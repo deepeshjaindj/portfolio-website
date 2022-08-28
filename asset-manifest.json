@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d7fbe71.css",
+    "main.js": "/static/js/main.9226fce8.js",
+    "static/media/DeepeshJain-WithoutBG.png": "/static/media/DeepeshJain-WithoutBG.0d4ae2f58d6c086ca325.png",
+    "static/media/food-order-ss.png": "/static/media/food-order-ss.ee2205e1945cdd3a7765.png",
+    "static/media/cbpi-ss.png": "/static/media/cbpi-ss.fa82f9984a5fae2c48e5.png",
+    "static/media/Deepesh Jain Resume.pdf": "/static/media/Deepesh Jain Resume.57e5a3a902eb3771d0d0.pdf",
+    "static/media/Deepesh Jain DJ- Highway.jpg": "/static/media/Deepesh Jain DJ- Highway.3b581d0eba030468ea5d.jpg",
+    "static/media/portfolio-ss.png": "/static/media/portfolio-ss.c4d9ed57ade6b5d63e02.png",
+    "static/media/dribbble logo.png": "/static/media/dribbble logo.c243e0ebc3db0c1c0014.png",
+    "index.html": "/index.html",
+    "main.7d7fbe71.css.map": "/static/css/main.7d7fbe71.css.map",
+    "main.9226fce8.js.map": "/static/js/main.9226fce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d7fbe71.css",
+    "static/js/main.9226fce8.js"
+  ]
+}
