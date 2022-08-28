@@ -2,7 +2,7 @@
 
 _Deepesh Jain DJ's Official Portfolio Website_ 
 
->Technologies Used: ReactJS, JavaScript, CSS3, HTML5
+>Technologies Used: ReactJS, Netlify(Hosting), JavaScript, CSS3, HTML5
 <br>
 
 Visit Site: [Deepesh Jain DJ](https://deepeshjaindj.netlify.app/)
