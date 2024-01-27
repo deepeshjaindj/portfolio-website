@@ -13,7 +13,7 @@ const PROJECTS = [
     alt: "Food Order App - Deepesh Jain DJ",
     title: "Food Order App",
     description:
-      "This food ordering app is built on reactjs. It allows users to select and order their favorite meals from the menu, verify the shopping cart, provide their address information, and place an order. Its interactive UI makes ordering easy and convenient.",
+      "This application for food ordering is developed using React.js, providing users with a seamless experience to browse and order their preferred meals from the menu. Users can review and confirm their selected items in the shopping cart, input address details, and effortlessly place an order. The interactive user interface enhances the overall ordering process, ensuring a user-friendly and convenient experience.",
     github: "https://github.com/deepeshjaindj/food-order-app",
     live_demo: "https://deepeshjaindj-food-order-app.netlify.app/",
   },
@@ -23,7 +23,7 @@ const PROJECTS = [
     alt: "CBPI Website - Deepesh Jain DJ",
     title: "Book Publishing Website",
     description:
-      "It is a website project developed for a book publishing firm. The project was developed while keeping in mind the requirements of the client. It is a Front-end only Multi-page Website. Also, this website is Fully Responsive for mobile and other devices.",
+      "This website project, dedicated to a prominent book publishing firm, was meticulously developed to meet the client's unique requirements. A front-end exclusive, multi-page website, it boasts full responsiveness, adapting seamlessly to diverse devices, including mobile platforms, to deliver an exceptional user experience. The intuitive design prioritize aesthetic appeal and user engagement.",
     github:
       "https://github.com/deepeshjaindj/conceptsbookspublication.github.io",
     live_demo:
@@ -35,7 +35,7 @@ const PROJECTS = [
     alt: "Portfolio Website Project - Deepesh Jain DJ",
     title: "Portfolio Website Project",
     description:
-      "This website is a reactjs-based portfolio website project. It uses react-router and is a 3-page website. This web project is currently Non-responsive in its initial build. It has beautiful animations and a very interactive UI. It also uses multiple CSS libraries.",
+      "This portfolio website, constructed using React.js, represents a dynamic web project that incorporates the React Router library, spanning across three distinct pages. While the initial build currently lacks responsiveness, it distinguishes itself with captivating animations and a highly interactive user interface. Furthermore, the project integrates various CSS libraries to enhance its visual appeal and functionality.",
     github: "https://github.com/deepeshjaindj/portfolio-website-project",
     live_demo: "https://deepeshjaindj-portfolio-project.netlify.app/",
   },

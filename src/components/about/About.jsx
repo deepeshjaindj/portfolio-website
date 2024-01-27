@@ -30,7 +30,7 @@ const About = () => {
             <article className={styles.about__card}>
               <FaAward className={styles.about__icon} />
               <h5>Experience</h5>
-              <small>Fresher 2023 Passout</small>
+              <small>1.5+ Years</small>
             </article>
             <article className={styles.about__card}>
               <FiPenTool className={styles.about__icon} />
@@ -40,22 +40,24 @@ const About = () => {
             <article className={styles.about__card}>
               <VscFolderLibrary className={styles.about__icon} />
               <h5>Projects</h5>
-              <small>5+ Portfolio Projects</small>
+              <small>3+ Client Projects</small>
             </article>
           </div>
 
           <p>
-            I'm Deepesh Jain, an aspiring full-stack developer. As of now, I
-            completed front-end development using ReactJS, JavaScript,
-            Bootstrap, HTML, CSS, and a few other front-end technologies. Also,
-            I did quite a few projects to improve my portfolio and gain
-            real-world experience. Now, I'm looking forward to extending my
-            knowledge by learning the fundamentals of back-end development.
+            As a results-driven Software Engineer, I bring over 1.5 years of
+            expertise in frontend development, with a focus on React.js,
+            JavaScript, HTML, and CSS. Throughout my career, I've fostered
+            successful collaborations with clients, consistently delivering
+            solutions that surpass their expectations. Proficient in Agile
+            methodology, Git, and JIRA, I thrive in dynamic, large team
+            environments, contributing to the seamless execution of projects.
           </p>
           <p>
-            At present, I'm pursuing my Bachelor of Technology in Computer
-            Science &amp; Engineering. While I'm based in Madhya Pradesh, India,
-            I help people build websites all over the globe.
+            Rooted in a Bachelor's degree in Technology, my trajectory involves
+            venturing into backend development, underscoring my commitment to
+            staying at the forefront of technology trends and delivering
+            top-notch software solutions.
           </p>
           <p>
             Besides web development, I also have an interest in Problem Solving.
@@ -75,7 +77,7 @@ const About = () => {
             <div className={styles.coding_profile}>
               <SiHackerrank className={styles.profile_icon} />
               <a
-                href="https://www.hckerrank.com/deepeshjaindj"
+                href="https://www.hackerrank.com/deepeshjaindj"
                 target="_blank"
                 rel="noopener noreferrer"
               >

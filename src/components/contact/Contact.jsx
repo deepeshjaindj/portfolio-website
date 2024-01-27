@@ -13,14 +13,14 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_vepoyen",
-        "template_1mb4d7j",
+        process.env.REACT_APP_EMAILJS_SERVICEID,
+        process.env.REACT_APP_EMAILJS_TEMPLATEID,
         form.current,
-        "L15Mkm-f18tczx618"
+        process.env.REACT_APP_EMAILJS_TOKEN
       )
       .then(
-        (result) => {
-          alert(result.text);
+        () => {
+          alert("Message Sent. We'll get in touch soon.");
         },
         (error) => {
           alert(error.text);

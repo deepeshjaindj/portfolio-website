@@ -16,29 +16,8 @@ const Experience = () => {
             <article className={styles.experience__details}>
               <BsPatchCheckFill className={styles.experience__icon} />
               <div>
-                <h4>HTML</h4>
+                <h4>React.js</h4>
                 <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className={styles.experience__details}>
-              <BsPatchCheckFill className={styles.experience__icon} />
-              <div>
-                <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-            <article className={styles.experience__details}>
-              <BsPatchCheckFill className={styles.experience__icon} />
-              <div>
-                <h4>SASS</h4>
-                <small className="text-light">Basic</small>
-              </div>
-            </article>
-            <article className={styles.experience__details}>
-              <BsPatchCheckFill className={styles.experience__icon} />
-              <div>
-                <h4>Bootstrap</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className={styles.experience__details}>
@@ -51,21 +30,42 @@ const Experience = () => {
             <article className={styles.experience__details}>
               <BsPatchCheckFill className={styles.experience__icon} />
               <div>
-                <h4>jQuery</h4>
-                <small className="text-light">Basic</small>
+                <h4>HTML / CSS</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className={styles.experience__details}>
               <BsPatchCheckFill className={styles.experience__icon} />
               <div>
-                <h4>React</h4>
+                <h4>Bootstrap / Tailwind</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className={styles.experience__details}>
+              <BsPatchCheckFill className={styles.experience__icon} />
+              <div>
+                <h4>Styled Components</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className={styles.experience__details}>
+              <BsPatchCheckFill className={styles.experience__icon} />
+              <div>
+                <h4>Redux</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className={styles.experience__details}>
+              <BsPatchCheckFill className={styles.experience__icon} />
+              <div>
+                <h4>React Query</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
         </div>
 
-        {/* BACKEND */}
+        {/* BACKEND + Additional Skills */}
 
         <div className={styles.experience__backend}>
           <h3>Backend Development</h3>
@@ -73,21 +73,14 @@ const Experience = () => {
             <article className={styles.experience__details}>
               <BsPatchCheckFill className={styles.experience__icon} />
               <div>
-                <h4>Python</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Node.js</h4>
+                <small className="text-light">Learning</small>
               </div>
             </article>
             <article className={styles.experience__details}>
               <BsPatchCheckFill className={styles.experience__icon} />
               <div>
-                <h4>MySQL</h4>
-                <small className="text-light">Basic</small>
-              </div>
-            </article>
-            <article className={styles.experience__details}>
-              <BsPatchCheckFill className={styles.experience__icon} />
-              <div>
-                <h4>NodeJS</h4>
+                <h4>Express.js</h4>
                 <small className="text-light">Learning</small>
               </div>
             </article>
@@ -95,7 +88,31 @@ const Experience = () => {
               <BsPatchCheckFill className={styles.experience__icon} />
               <div>
                 <h4>MongoDB</h4>
-                <small className="text-light">Learning</small>
+                <small className="text-light">Basic</small>
+              </div>
+            </article>
+          </div>
+          <h3>Additional Skills</h3>
+          <div className={styles.experience__content}>
+            <article className={styles.experience__details}>
+              <BsPatchCheckFill className={styles.experience__icon} />
+              <div>
+                <h4>Agile Development (JIRA)</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className={styles.experience__details}>
+              <BsPatchCheckFill className={styles.experience__icon} />
+              <div>
+                <h4>Git</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className={styles.experience__details}>
+              <BsPatchCheckFill className={styles.experience__icon} />
+              <div>
+                <h4>Responsive Design</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>

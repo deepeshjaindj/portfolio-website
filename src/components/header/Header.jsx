@@ -11,7 +11,7 @@ const Header = () => {
       <div className={`container ${styles.header__container}`}>
         <h5>Hello I'm</h5>
         <h1>Deepesh Jain</h1>
-        <h5 className="text-light">Front End Developer</h5>
+        <h5 className="text-light">Front End Developer (React JS)</h5>
         <CTA />
 
         <div className={styles.me}>
