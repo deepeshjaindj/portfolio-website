@@ -1,2 +1,15 @@
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
 node_modules
 .env
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
